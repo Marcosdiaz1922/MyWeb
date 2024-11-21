@@ -1,0 +1,26 @@
+2024-11-20 17:35:25.386 [info] Getting Manifest... ms-vscode.live-server
+2024-11-20 17:35:25.632 [info] Installing extension: ms-vscode.live-server {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mrcs/.vscode/extensions/extensions.json","path":"/home/mrcs/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"}}
+2024-11-20 17:35:27.584 [info] Extension signature verification result for ms-vscode.live-server: Success. Executed: true. Duration: 1000ms.
+2024-11-20 17:35:27.729 [info] Extracted extension to file:///home/mrcs/.vscode/extensions/ms-vscode.live-server-0.4.15: ms-vscode.live-server
+2024-11-20 17:35:27.737 [info] Renamed to /home/mrcs/.vscode/extensions/ms-vscode.live-server-0.4.15
+2024-11-20 17:35:27.761 [info] Extension installed successfully: ms-vscode.live-server vscode-userdata:/home/mrcs/.vscode/extensions/extensions.json
+2024-11-20 17:35:27.787 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrcs/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrcs/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-20 17:35:39.838 [info] Getting Manifest... ritwickdey.liveserver
+2024-11-20 17:35:39.907 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mrcs/.vscode/extensions/extensions.json","path":"/home/mrcs/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.2","date":"2024-11-07T11:07:22.054Z"}}
+2024-11-20 17:35:42.488 [info] Extension signature verification result for ritwickdey.liveserver: Success. Executed: true. Duration: 1091ms.
+2024-11-20 17:35:52.378 [info] Extracted extension to file:///home/mrcs/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-11-20 17:35:52.389 [info] Renamed to /home/mrcs/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2024-11-20 17:35:52.416 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/mrcs/.vscode/extensions/extensions.json
+2024-11-20 17:35:52.498 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrcs/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrcs/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///snap/code/175/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

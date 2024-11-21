@@ -1,0 +1,19 @@
+2024-11-11 21:47:12.193 [info] Extension host with pid 5745 started
+2024-11-11 21:47:12.193 [info] Skipping acquiring lock for /home/mrcs/.config/Code/User/workspaceStorage/64409dc42b9bbc4c620b42e2cdd3d725.
+2024-11-11 21:47:12.609 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-11-11 21:47:12.921 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-11 21:47:13.046 [info] Eager extensions activated
+2024-11-11 21:47:13.119 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 21:47:13.135 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 21:47:22.429 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-11-11 21:47:28.390 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-11-11 21:47:28.477 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-11 21:50:10.915 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2024-11-11 21:52:20.833 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2024-11-11 21:52:20.857 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-chrome'
+2024-11-11 21:58:25.281 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-11 21:58:25.328 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-11 21:58:25.376 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-11 22:14:05.074 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-11-11 22:15:40.940 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-11 22:15:41.021 [info] Extension host with pid 5745 exiting with code 0

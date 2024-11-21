@@ -1,0 +1,20 @@
+2024-11-11 21:31:02.588801 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#14b6f(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: HTTP connection completed with 502 instead of 200, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, server: Caddy, content-length: 0, date: Mon, 11 Nov 2024 21:31:02 GMT})
+2024-11-11 21:31:02.593459 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#88079(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: HTTP connection completed with 502 instead of 200, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, server: Caddy, content-length: 0, date: Mon, 11 Nov 2024 21:31:02 GMT})
+2024-11-11 21:31:02.630472 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#660a1(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: HTTP connection completed with 502 instead of 200, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, server: Caddy, content-length: 0, date: Mon, 11 Nov 2024 21:31:02 GMT})
+2024-11-11 21:31:03.134790 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1364f(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: Internal server error, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Mon, 11 Nov 2024 21:31:02 GMT, server: Caddy, content-length: 0})
+2024-11-11 21:31:03.144903 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1a84d(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: Internal server error, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Mon, 11 Nov 2024 21:31:02 GMT, server: Caddy, content-length: 0})
+2024-11-11 21:31:03.297526 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#2391e(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: Internal server error, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Mon, 11 Nov 2024 21:31:02 GMT, server: Caddy, content-length: 0})
+2024-11-11 21:31:03.302703 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#9aa08(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: Internal server error, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Mon, 11 Nov 2024 21:31:02 GMT, server: Caddy, content-length: 0})
+2024-11-11 21:31:03.306298 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#541b2(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: Internal server error, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Mon, 11 Nov 2024 21:31:03 GMT, server: Caddy, content-length: 0})
+2024-11-11 21:31:03.317211 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#cd68d(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: Internal server error, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Mon, 11 Nov 2024 21:31:03 GMT, server: Caddy, content-length: 0})
+2024-11-11 21:31:18.137270 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#4c666(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: HTTP connection completed with 502 instead of 200, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, server: Caddy, content-length: 0, date: Mon, 11 Nov 2024 21:31:18 GMT})

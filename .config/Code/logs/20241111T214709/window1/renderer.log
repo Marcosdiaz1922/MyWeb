@@ -1,0 +1,10 @@
+2024-11-11 21:47:10.906 [info] Started local extension host with pid 5745.
+2024-11-11 21:47:11.143 [info] Started initializing default profile extensions in extensions installation folder. file:///home/mrcs/.vscode/extensions
+2024-11-11 21:47:11.901 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/mrcs/.vscode/extensions
+2024-11-11 21:47:12.248 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-11 21:47:12.248 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-11 21:47:13.820 [info] [perf] Render performance baseline is 17ms
+2024-11-11 21:50:05.117 [error] [network] #4: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-11-11 21:52:21.852 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2024-11-11 21:52:21.873 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2024-11-11 21:52:21.910 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
